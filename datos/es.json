@@ -1,0 +1,3087 @@
+{
+  "idioma": "es",
+  "etiqueta": "Espanol (Mexico)",
+  "voz_tts": "es-MX-DaliaNeural",
+  "longitud_minima": 3,
+  "letras": {
+    "A": {
+      "nombre": "a",
+      "sonido": ""
+    },
+    "B": {
+      "nombre": "be",
+      "sonido": "bá"
+    },
+    "C": {
+      "nombre": "cé",
+      "sonido": "ca"
+    },
+    "D": {
+      "nombre": "de",
+      "sonido": "da"
+    },
+    "E": {
+      "nombre": "e",
+      "sonido": ""
+    },
+    "F": {
+      "nombre": "efe",
+      "sonido": "fa"
+    },
+    "G": {
+      "nombre": "ge",
+      "sonido": "ga"
+    },
+    "H": {
+      "nombre": "hache",
+      "sonido": ""
+    },
+    "I": {
+      "nombre": "i",
+      "sonido": ""
+    },
+    "J": {
+      "nombre": "jota",
+      "sonido": "ja"
+    },
+    "K": {
+      "nombre": "ka",
+      "sonido": "ka"
+    },
+    "L": {
+      "nombre": "ele",
+      "sonido": "la"
+    },
+    "M": {
+      "nombre": "eme",
+      "sonido": "ma"
+    },
+    "N": {
+      "nombre": "ene",
+      "sonido": "na"
+    },
+    "Ñ": {
+      "nombre": "eñe",
+      "sonido": "ña"
+    },
+    "O": {
+      "nombre": "o",
+      "sonido": ""
+    },
+    "P": {
+      "nombre": "pe",
+      "sonido": "pa"
+    },
+    "Q": {
+      "nombre": "cú",
+      "sonido": "que"
+    },
+    "R": {
+      "nombre": "erre",
+      "sonido": "ra"
+    },
+    "S": {
+      "nombre": "ese",
+      "sonido": "sa"
+    },
+    "T": {
+      "nombre": "te",
+      "sonido": "ta"
+    },
+    "U": {
+      "nombre": "u",
+      "sonido": ""
+    },
+    "V": {
+      "nombre": "uve",
+      "sonido": "va"
+    },
+    "W": {
+      "nombre": "doble u",
+      "sonido": ""
+    },
+    "X": {
+      "nombre": "equis",
+      "sonido": ""
+    },
+    "Y": {
+      "nombre": "ye",
+      "sonido": "ya"
+    },
+    "Z": {
+      "nombre": "zeta",
+      "sonido": "za"
+    }
+  },
+  "digitos": {
+    "0": {
+      "nombre": "cero"
+    },
+    "1": {
+      "nombre": "uno"
+    },
+    "2": {
+      "nombre": "dos"
+    },
+    "3": {
+      "nombre": "tres"
+    },
+    "4": {
+      "nombre": "cuatro"
+    },
+    "5": {
+      "nombre": "cinco"
+    },
+    "6": {
+      "nombre": "seis"
+    },
+    "7": {
+      "nombre": "siete"
+    },
+    "8": {
+      "nombre": "ocho"
+    },
+    "9": {
+      "nombre": "nueve"
+    }
+  },
+  "palabras": [
+    {
+      "texto": "WILI",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Wili"
+    },
+    {
+      "texto": "NOIL",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Nóil"
+    },
+    {
+      "texto": "OMAR",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "GUADALUPE",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "ELENA",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "KUN",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Kun"
+    },
+    {
+      "texto": "ALFREDO",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "MARGARITO",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "JORGE",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "DIANA",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "CYRENE",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Sirene"
+    },
+    {
+      "texto": "FREDY",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Fredi"
+    },
+    {
+      "texto": "BERTHA",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Berta"
+    },
+    {
+      "texto": "REYNALDO",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "TATA",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "LUFY",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Lufi"
+    },
+    {
+      "texto": "CALIMAN",
+      "nivel": 1,
+      "nombre_propio": true,
+      "pronunciacion": "Calimán"
+    },
+    {
+      "texto": "LUPITA",
+      "nivel": 1,
+      "nombre_propio": true
+    },
+    {
+      "texto": "MAMA",
+      "nivel": 1,
+      "pronunciacion": "mamá"
+    },
+    {
+      "texto": "PAPA",
+      "nivel": 1,
+      "pronunciacion": "papá"
+    },
+    {
+      "texto": "BEBE",
+      "nivel": 1,
+      "pronunciacion": "bebé"
+    },
+    {
+      "texto": "ABUELA",
+      "nivel": 1
+    },
+    {
+      "texto": "ABUELO",
+      "nivel": 1
+    },
+    {
+      "texto": "HERMANO",
+      "nivel": 1
+    },
+    {
+      "texto": "HERMANA",
+      "nivel": 1
+    },
+    {
+      "texto": "TIA",
+      "nivel": 1,
+      "pronunciacion": "tía"
+    },
+    {
+      "texto": "TIO",
+      "nivel": 1,
+      "pronunciacion": "tío"
+    },
+    {
+      "texto": "PRIMO",
+      "nivel": 1
+    },
+    {
+      "texto": "PRIMA",
+      "nivel": 1
+    },
+    {
+      "texto": "NIÑO",
+      "nivel": 1
+    },
+    {
+      "texto": "NIÑA",
+      "nivel": 1
+    },
+    {
+      "texto": "NENE",
+      "nivel": 1
+    },
+    {
+      "texto": "NENA",
+      "nivel": 1
+    },
+    {
+      "texto": "FAMILIA",
+      "nivel": 1
+    },
+    {
+      "texto": "HIJO",
+      "nivel": 1
+    },
+    {
+      "texto": "HIJA",
+      "nivel": 1
+    },
+    {
+      "texto": "GATO",
+      "nivel": 1
+    },
+    {
+      "texto": "PERRO",
+      "nivel": 1
+    },
+    {
+      "texto": "PATO",
+      "nivel": 1
+    },
+    {
+      "texto": "VACA",
+      "nivel": 1
+    },
+    {
+      "texto": "POLLO",
+      "nivel": 1
+    },
+    {
+      "texto": "PEZ",
+      "nivel": 1
+    },
+    {
+      "texto": "OSO",
+      "nivel": 1
+    },
+    {
+      "texto": "LEON",
+      "nivel": 1,
+      "pronunciacion": "león"
+    },
+    {
+      "texto": "TIGRE",
+      "nivel": 1
+    },
+    {
+      "texto": "MONO",
+      "nivel": 1
+    },
+    {
+      "texto": "RANA",
+      "nivel": 1
+    },
+    {
+      "texto": "PAJARO",
+      "nivel": 1,
+      "pronunciacion": "pájaro"
+    },
+    {
+      "texto": "ARAÑA",
+      "nivel": 1
+    },
+    {
+      "texto": "RATON",
+      "nivel": 1,
+      "pronunciacion": "ratón"
+    },
+    {
+      "texto": "CABALLO",
+      "nivel": 1
+    },
+    {
+      "texto": "CERDO",
+      "nivel": 1
+    },
+    {
+      "texto": "CONEJO",
+      "nivel": 1
+    },
+    {
+      "texto": "OVEJA",
+      "nivel": 1
+    },
+    {
+      "texto": "BURRO",
+      "nivel": 1
+    },
+    {
+      "texto": "GALLINA",
+      "nivel": 1
+    },
+    {
+      "texto": "GALLO",
+      "nivel": 1
+    },
+    {
+      "texto": "ELEFANTE",
+      "nivel": 1
+    },
+    {
+      "texto": "JIRAFA",
+      "nivel": 1
+    },
+    {
+      "texto": "CEBRA",
+      "nivel": 1
+    },
+    {
+      "texto": "LOBO",
+      "nivel": 1
+    },
+    {
+      "texto": "ZORRO",
+      "nivel": 1
+    },
+    {
+      "texto": "ABEJA",
+      "nivel": 1
+    },
+    {
+      "texto": "MOSCA",
+      "nivel": 1
+    },
+    {
+      "texto": "HORMIGA",
+      "nivel": 1
+    },
+    {
+      "texto": "GUSANO",
+      "nivel": 1
+    },
+    {
+      "texto": "TORTUGA",
+      "nivel": 1
+    },
+    {
+      "texto": "DELFIN",
+      "nivel": 1,
+      "pronunciacion": "delfín"
+    },
+    {
+      "texto": "BALLENA",
+      "nivel": 1
+    },
+    {
+      "texto": "PULPO",
+      "nivel": 1
+    },
+    {
+      "texto": "CANGREJO",
+      "nivel": 1
+    },
+    {
+      "texto": "PAVO",
+      "nivel": 1
+    },
+    {
+      "texto": "GANSO",
+      "nivel": 1
+    },
+    {
+      "texto": "CABRA",
+      "nivel": 1
+    },
+    {
+      "texto": "BORREGO",
+      "nivel": 1
+    },
+    {
+      "texto": "LORO",
+      "nivel": 1
+    },
+    {
+      "texto": "BUHO",
+      "nivel": 1,
+      "pronunciacion": "búho"
+    },
+    {
+      "texto": "FOCA",
+      "nivel": 1
+    },
+    {
+      "texto": "POLLITO",
+      "nivel": 1
+    },
+    {
+      "texto": "PERRITO",
+      "nivel": 1
+    },
+    {
+      "texto": "GATITO",
+      "nivel": 1
+    },
+    {
+      "texto": "PAN",
+      "nivel": 1
+    },
+    {
+      "texto": "LECHE",
+      "nivel": 1
+    },
+    {
+      "texto": "AGUA",
+      "nivel": 1
+    },
+    {
+      "texto": "JUGO",
+      "nivel": 1
+    },
+    {
+      "texto": "SOPA",
+      "nivel": 1
+    },
+    {
+      "texto": "ARROZ",
+      "nivel": 1
+    },
+    {
+      "texto": "HUEVO",
+      "nivel": 1
+    },
+    {
+      "texto": "QUESO",
+      "nivel": 1
+    },
+    {
+      "texto": "CARNE",
+      "nivel": 1
+    },
+    {
+      "texto": "PESCADO",
+      "nivel": 1
+    },
+    {
+      "texto": "FRUTA",
+      "nivel": 1
+    },
+    {
+      "texto": "MANZANA",
+      "nivel": 1
+    },
+    {
+      "texto": "PLATANO",
+      "nivel": 1,
+      "pronunciacion": "plátano"
+    },
+    {
+      "texto": "UVA",
+      "nivel": 1
+    },
+    {
+      "texto": "PERA",
+      "nivel": 1
+    },
+    {
+      "texto": "FRESA",
+      "nivel": 1
+    },
+    {
+      "texto": "SANDIA",
+      "nivel": 1,
+      "pronunciacion": "sandía"
+    },
+    {
+      "texto": "MELON",
+      "nivel": 1,
+      "pronunciacion": "melón"
+    },
+    {
+      "texto": "NARANJA",
+      "nivel": 1
+    },
+    {
+      "texto": "LIMON",
+      "nivel": 1,
+      "pronunciacion": "limón"
+    },
+    {
+      "texto": "MANGO",
+      "nivel": 1
+    },
+    {
+      "texto": "PIÑA",
+      "nivel": 1
+    },
+    {
+      "texto": "PAPAYA",
+      "nivel": 1
+    },
+    {
+      "texto": "DURAZNO",
+      "nivel": 1
+    },
+    {
+      "texto": "CEREZA",
+      "nivel": 1
+    },
+    {
+      "texto": "COCO",
+      "nivel": 1
+    },
+    {
+      "texto": "ZANAHORIA",
+      "nivel": 1
+    },
+    {
+      "texto": "TOMATE",
+      "nivel": 1
+    },
+    {
+      "texto": "FRIJOL",
+      "nivel": 1
+    },
+    {
+      "texto": "MAIZ",
+      "nivel": 1,
+      "pronunciacion": "maíz"
+    },
+    {
+      "texto": "TORTILLA",
+      "nivel": 1
+    },
+    {
+      "texto": "TACO",
+      "nivel": 1
+    },
+    {
+      "texto": "PASTEL",
+      "nivel": 1
+    },
+    {
+      "texto": "GALLETA",
+      "nivel": 1
+    },
+    {
+      "texto": "DULCE",
+      "nivel": 1
+    },
+    {
+      "texto": "HELADO",
+      "nivel": 1
+    },
+    {
+      "texto": "CHOCOLATE",
+      "nivel": 1
+    },
+    {
+      "texto": "MIEL",
+      "nivel": 1
+    },
+    {
+      "texto": "AZUCAR",
+      "nivel": 1,
+      "pronunciacion": "azúcar"
+    },
+    {
+      "texto": "SAL",
+      "nivel": 1
+    },
+    {
+      "texto": "PIZZA",
+      "nivel": 1
+    },
+    {
+      "texto": "CEREAL",
+      "nivel": 1
+    },
+    {
+      "texto": "YOGUR",
+      "nivel": 1
+    },
+    {
+      "texto": "MANTEQUILLA",
+      "nivel": 1
+    },
+    {
+      "texto": "ELOTE",
+      "nivel": 1
+    },
+    {
+      "texto": "CHILE",
+      "nivel": 1
+    },
+    {
+      "texto": "CEBOLLA",
+      "nivel": 1
+    },
+    {
+      "texto": "LECHUGA",
+      "nivel": 1
+    },
+    {
+      "texto": "CALABAZA",
+      "nivel": 1
+    },
+    {
+      "texto": "ATOLE",
+      "nivel": 1
+    },
+    {
+      "texto": "POZOLE",
+      "nivel": 1
+    },
+    {
+      "texto": "TAMAL",
+      "nivel": 1
+    },
+    {
+      "texto": "SOPITA",
+      "nivel": 1
+    },
+    {
+      "texto": "MANO",
+      "nivel": 1
+    },
+    {
+      "texto": "PIE",
+      "nivel": 1
+    },
+    {
+      "texto": "OJO",
+      "nivel": 1
+    },
+    {
+      "texto": "BOCA",
+      "nivel": 1
+    },
+    {
+      "texto": "NARIZ",
+      "nivel": 1
+    },
+    {
+      "texto": "OREJA",
+      "nivel": 1
+    },
+    {
+      "texto": "PELO",
+      "nivel": 1
+    },
+    {
+      "texto": "DIENTE",
+      "nivel": 1
+    },
+    {
+      "texto": "CABEZA",
+      "nivel": 1
+    },
+    {
+      "texto": "BRAZO",
+      "nivel": 1
+    },
+    {
+      "texto": "PIERNA",
+      "nivel": 1
+    },
+    {
+      "texto": "DEDO",
+      "nivel": 1
+    },
+    {
+      "texto": "CARA",
+      "nivel": 1
+    },
+    {
+      "texto": "CUELLO",
+      "nivel": 1
+    },
+    {
+      "texto": "PANZA",
+      "nivel": 1
+    },
+    {
+      "texto": "ESPALDA",
+      "nivel": 1
+    },
+    {
+      "texto": "RODILLA",
+      "nivel": 1
+    },
+    {
+      "texto": "LENGUA",
+      "nivel": 1
+    },
+    {
+      "texto": "UÑA",
+      "nivel": 1
+    },
+    {
+      "texto": "CEJA",
+      "nivel": 1
+    },
+    {
+      "texto": "CODO",
+      "nivel": 1
+    },
+    {
+      "texto": "HOMBRO",
+      "nivel": 1
+    },
+    {
+      "texto": "CORAZON",
+      "nivel": 1,
+      "pronunciacion": "corazón"
+    },
+    {
+      "texto": "HUESO",
+      "nivel": 1
+    },
+    {
+      "texto": "PIEL",
+      "nivel": 1
+    },
+    {
+      "texto": "CASA",
+      "nivel": 1
+    },
+    {
+      "texto": "CAMA",
+      "nivel": 1
+    },
+    {
+      "texto": "MESA",
+      "nivel": 1
+    },
+    {
+      "texto": "SILLA",
+      "nivel": 1
+    },
+    {
+      "texto": "PUERTA",
+      "nivel": 1
+    },
+    {
+      "texto": "VENTANA",
+      "nivel": 1
+    },
+    {
+      "texto": "COCINA",
+      "nivel": 1
+    },
+    {
+      "texto": "BAÑO",
+      "nivel": 1
+    },
+    {
+      "texto": "SALA",
+      "nivel": 1
+    },
+    {
+      "texto": "CUARTO",
+      "nivel": 1
+    },
+    {
+      "texto": "TECHO",
+      "nivel": 1
+    },
+    {
+      "texto": "PISO",
+      "nivel": 1
+    },
+    {
+      "texto": "PARED",
+      "nivel": 1
+    },
+    {
+      "texto": "FOCO",
+      "nivel": 1
+    },
+    {
+      "texto": "LUZ",
+      "nivel": 1
+    },
+    {
+      "texto": "PLATO",
+      "nivel": 1
+    },
+    {
+      "texto": "VASO",
+      "nivel": 1
+    },
+    {
+      "texto": "TAZA",
+      "nivel": 1
+    },
+    {
+      "texto": "CUCHARA",
+      "nivel": 1
+    },
+    {
+      "texto": "TENEDOR",
+      "nivel": 1
+    },
+    {
+      "texto": "OLLA",
+      "nivel": 1
+    },
+    {
+      "texto": "JABON",
+      "nivel": 1,
+      "pronunciacion": "jabón"
+    },
+    {
+      "texto": "TOALLA",
+      "nivel": 1
+    },
+    {
+      "texto": "CEPILLO",
+      "nivel": 1
+    },
+    {
+      "texto": "PEINE",
+      "nivel": 1
+    },
+    {
+      "texto": "TINA",
+      "nivel": 1
+    },
+    {
+      "texto": "ESPEJO",
+      "nivel": 1
+    },
+    {
+      "texto": "COBIJA",
+      "nivel": 1
+    },
+    {
+      "texto": "ALMOHADA",
+      "nivel": 1
+    },
+    {
+      "texto": "SABANA",
+      "nivel": 1,
+      "pronunciacion": "sábana"
+    },
+    {
+      "texto": "ROPA",
+      "nivel": 1
+    },
+    {
+      "texto": "ZAPATO",
+      "nivel": 1
+    },
+    {
+      "texto": "CAMISA",
+      "nivel": 1
+    },
+    {
+      "texto": "PANTALON",
+      "nivel": 1,
+      "pronunciacion": "pantalón"
+    },
+    {
+      "texto": "GORRO",
+      "nivel": 1
+    },
+    {
+      "texto": "SUETER",
+      "nivel": 1,
+      "pronunciacion": "suéter"
+    },
+    {
+      "texto": "FALDA",
+      "nivel": 1
+    },
+    {
+      "texto": "VESTIDO",
+      "nivel": 1
+    },
+    {
+      "texto": "CHAMARRA",
+      "nivel": 1
+    },
+    {
+      "texto": "BOTA",
+      "nivel": 1
+    },
+    {
+      "texto": "GUANTE",
+      "nivel": 1
+    },
+    {
+      "texto": "BUFANDA",
+      "nivel": 1
+    },
+    {
+      "texto": "PAÑAL",
+      "nivel": 1
+    },
+    {
+      "texto": "BOLSA",
+      "nivel": 1
+    },
+    {
+      "texto": "LLAVE",
+      "nivel": 1
+    },
+    {
+      "texto": "RELOJ",
+      "nivel": 1
+    },
+    {
+      "texto": "TELEFONO",
+      "nivel": 1,
+      "pronunciacion": "teléfono"
+    },
+    {
+      "texto": "TELE",
+      "nivel": 1
+    },
+    {
+      "texto": "RADIO",
+      "nivel": 1
+    },
+    {
+      "texto": "LIBRO",
+      "nivel": 1
+    },
+    {
+      "texto": "LAPIZ",
+      "nivel": 1,
+      "pronunciacion": "lápiz"
+    },
+    {
+      "texto": "PAPEL",
+      "nivel": 1
+    },
+    {
+      "texto": "CRAYON",
+      "nivel": 1,
+      "pronunciacion": "crayón"
+    },
+    {
+      "texto": "PINTURA",
+      "nivel": 1
+    },
+    {
+      "texto": "TIJERA",
+      "nivel": 1
+    },
+    {
+      "texto": "MOCHILA",
+      "nivel": 1
+    },
+    {
+      "texto": "CUADERNO",
+      "nivel": 1
+    },
+    {
+      "texto": "PELOTA",
+      "nivel": 1
+    },
+    {
+      "texto": "MUÑECA",
+      "nivel": 1
+    },
+    {
+      "texto": "CARRO",
+      "nivel": 1
+    },
+    {
+      "texto": "TREN",
+      "nivel": 1
+    },
+    {
+      "texto": "AVION",
+      "nivel": 1,
+      "pronunciacion": "avión"
+    },
+    {
+      "texto": "BARCO",
+      "nivel": 1
+    },
+    {
+      "texto": "BICI",
+      "nivel": 1
+    },
+    {
+      "texto": "PATIN",
+      "nivel": 1,
+      "pronunciacion": "patín"
+    },
+    {
+      "texto": "GLOBO",
+      "nivel": 1
+    },
+    {
+      "texto": "CUBO",
+      "nivel": 1
+    },
+    {
+      "texto": "BLOQUE",
+      "nivel": 1
+    },
+    {
+      "texto": "OSITO",
+      "nivel": 1
+    },
+    {
+      "texto": "TITERE",
+      "nivel": 1,
+      "pronunciacion": "títere"
+    },
+    {
+      "texto": "TAMBOR",
+      "nivel": 1
+    },
+    {
+      "texto": "TROMPETA",
+      "nivel": 1
+    },
+    {
+      "texto": "COLUMPIO",
+      "nivel": 1
+    },
+    {
+      "texto": "ARENA",
+      "nivel": 1
+    },
+    {
+      "texto": "BURBUJA",
+      "nivel": 1
+    },
+    {
+      "texto": "COMETA",
+      "nivel": 1
+    },
+    {
+      "texto": "CANICA",
+      "nivel": 1
+    },
+    {
+      "texto": "CARRITO",
+      "nivel": 1
+    },
+    {
+      "texto": "CAMION",
+      "nivel": 1,
+      "pronunciacion": "camión"
+    },
+    {
+      "texto": "MOTO",
+      "nivel": 1
+    },
+    {
+      "texto": "TRACTOR",
+      "nivel": 1
+    },
+    {
+      "texto": "COHETE",
+      "nivel": 1
+    },
+    {
+      "texto": "ROBOT",
+      "nivel": 1
+    },
+    {
+      "texto": "DADO",
+      "nivel": 1
+    },
+    {
+      "texto": "JUEGO",
+      "nivel": 1
+    },
+    {
+      "texto": "JUGUETE",
+      "nivel": 1
+    },
+    {
+      "texto": "SOL",
+      "nivel": 1
+    },
+    {
+      "texto": "LUNA",
+      "nivel": 1
+    },
+    {
+      "texto": "ESTRELLA",
+      "nivel": 1
+    },
+    {
+      "texto": "NUBE",
+      "nivel": 1
+    },
+    {
+      "texto": "LLUVIA",
+      "nivel": 1
+    },
+    {
+      "texto": "CIELO",
+      "nivel": 1
+    },
+    {
+      "texto": "TIERRA",
+      "nivel": 1
+    },
+    {
+      "texto": "ARBOL",
+      "nivel": 1,
+      "pronunciacion": "árbol"
+    },
+    {
+      "texto": "FLOR",
+      "nivel": 1
+    },
+    {
+      "texto": "HOJA",
+      "nivel": 1
+    },
+    {
+      "texto": "PASTO",
+      "nivel": 1
+    },
+    {
+      "texto": "PLANTA",
+      "nivel": 1
+    },
+    {
+      "texto": "SEMILLA",
+      "nivel": 1
+    },
+    {
+      "texto": "RAMA",
+      "nivel": 1
+    },
+    {
+      "texto": "RAIZ",
+      "nivel": 1,
+      "pronunciacion": "raíz"
+    },
+    {
+      "texto": "PIEDRA",
+      "nivel": 1
+    },
+    {
+      "texto": "RIO",
+      "nivel": 1,
+      "pronunciacion": "río"
+    },
+    {
+      "texto": "MAR",
+      "nivel": 1
+    },
+    {
+      "texto": "LAGO",
+      "nivel": 1
+    },
+    {
+      "texto": "PLAYA",
+      "nivel": 1
+    },
+    {
+      "texto": "MONTAÑA",
+      "nivel": 1
+    },
+    {
+      "texto": "CERRO",
+      "nivel": 1
+    },
+    {
+      "texto": "BOSQUE",
+      "nivel": 1
+    },
+    {
+      "texto": "CUEVA",
+      "nivel": 1
+    },
+    {
+      "texto": "VIENTO",
+      "nivel": 1
+    },
+    {
+      "texto": "NIEVE",
+      "nivel": 1
+    },
+    {
+      "texto": "FUEGO",
+      "nivel": 1
+    },
+    {
+      "texto": "HIELO",
+      "nivel": 1
+    },
+    {
+      "texto": "CHARCO",
+      "nivel": 1
+    },
+    {
+      "texto": "LODO",
+      "nivel": 1
+    },
+    {
+      "texto": "POLVO",
+      "nivel": 1
+    },
+    {
+      "texto": "HUMO",
+      "nivel": 1
+    },
+    {
+      "texto": "SOMBRA",
+      "nivel": 1
+    },
+    {
+      "texto": "DIA",
+      "nivel": 1,
+      "pronunciacion": "día"
+    },
+    {
+      "texto": "NOCHE",
+      "nivel": 1
+    },
+    {
+      "texto": "MAÑANA",
+      "nivel": 1
+    },
+    {
+      "texto": "TARDE",
+      "nivel": 1
+    },
+    {
+      "texto": "ROJO",
+      "nivel": 1
+    },
+    {
+      "texto": "AZUL",
+      "nivel": 1
+    },
+    {
+      "texto": "VERDE",
+      "nivel": 1
+    },
+    {
+      "texto": "AMARILLO",
+      "nivel": 1
+    },
+    {
+      "texto": "ROSA",
+      "nivel": 1
+    },
+    {
+      "texto": "NEGRO",
+      "nivel": 1
+    },
+    {
+      "texto": "BLANCO",
+      "nivel": 1
+    },
+    {
+      "texto": "CAFE",
+      "nivel": 1,
+      "pronunciacion": "café"
+    },
+    {
+      "texto": "MORADO",
+      "nivel": 1
+    },
+    {
+      "texto": "GRIS",
+      "nivel": 1
+    },
+    {
+      "texto": "DORADO",
+      "nivel": 1
+    },
+    {
+      "texto": "DOCTOR",
+      "nivel": 1
+    },
+    {
+      "texto": "MAESTRO",
+      "nivel": 1
+    },
+    {
+      "texto": "MAESTRA",
+      "nivel": 1
+    },
+    {
+      "texto": "BOMBERO",
+      "nivel": 1
+    },
+    {
+      "texto": "PAYASO",
+      "nivel": 1
+    },
+    {
+      "texto": "PANADERO",
+      "nivel": 1
+    },
+    {
+      "texto": "CARTERO",
+      "nivel": 1
+    },
+    {
+      "texto": "VECINO",
+      "nivel": 1
+    },
+    {
+      "texto": "AMIGO",
+      "nivel": 1
+    },
+    {
+      "texto": "AMIGA",
+      "nivel": 1
+    },
+    {
+      "texto": "PARQUE",
+      "nivel": 1
+    },
+    {
+      "texto": "ESCUELA",
+      "nivel": 1
+    },
+    {
+      "texto": "TIENDA",
+      "nivel": 1
+    },
+    {
+      "texto": "CALLE",
+      "nivel": 1
+    },
+    {
+      "texto": "CIUDAD",
+      "nivel": 1
+    },
+    {
+      "texto": "MERCADO",
+      "nivel": 1
+    },
+    {
+      "texto": "GRANJA",
+      "nivel": 1
+    },
+    {
+      "texto": "CIRCO",
+      "nivel": 1
+    },
+    {
+      "texto": "JARDIN",
+      "nivel": 1,
+      "pronunciacion": "jardín"
+    },
+    {
+      "texto": "PATIO",
+      "nivel": 1
+    },
+    {
+      "texto": "PUENTE",
+      "nivel": 1
+    },
+    {
+      "texto": "CAMINO",
+      "nivel": 1
+    },
+    {
+      "texto": "COMER",
+      "nivel": 1
+    },
+    {
+      "texto": "BEBER",
+      "nivel": 1
+    },
+    {
+      "texto": "TOMAR",
+      "nivel": 1
+    },
+    {
+      "texto": "DORMIR",
+      "nivel": 1
+    },
+    {
+      "texto": "CORRER",
+      "nivel": 1
+    },
+    {
+      "texto": "CAMINAR",
+      "nivel": 1
+    },
+    {
+      "texto": "SALTAR",
+      "nivel": 1
+    },
+    {
+      "texto": "JUGAR",
+      "nivel": 1
+    },
+    {
+      "texto": "CANTAR",
+      "nivel": 1
+    },
+    {
+      "texto": "BAILAR",
+      "nivel": 1
+    },
+    {
+      "texto": "REIR",
+      "nivel": 1,
+      "pronunciacion": "reír"
+    },
+    {
+      "texto": "LLORAR",
+      "nivel": 1
+    },
+    {
+      "texto": "HABLAR",
+      "nivel": 1
+    },
+    {
+      "texto": "MIRAR",
+      "nivel": 1
+    },
+    {
+      "texto": "VER",
+      "nivel": 1
+    },
+    {
+      "texto": "OIR",
+      "nivel": 1,
+      "pronunciacion": "oír"
+    },
+    {
+      "texto": "TOCAR",
+      "nivel": 1
+    },
+    {
+      "texto": "ABRAZAR",
+      "nivel": 1
+    },
+    {
+      "texto": "BESAR",
+      "nivel": 1
+    },
+    {
+      "texto": "PINTAR",
+      "nivel": 1
+    },
+    {
+      "texto": "DIBUJAR",
+      "nivel": 1
+    },
+    {
+      "texto": "LEER",
+      "nivel": 1
+    },
+    {
+      "texto": "CONTAR",
+      "nivel": 1
+    },
+    {
+      "texto": "LAVAR",
+      "nivel": 1
+    },
+    {
+      "texto": "PEINAR",
+      "nivel": 1
+    },
+    {
+      "texto": "SUBIR",
+      "nivel": 1
+    },
+    {
+      "texto": "BAJAR",
+      "nivel": 1
+    },
+    {
+      "texto": "ABRIR",
+      "nivel": 1
+    },
+    {
+      "texto": "CERRAR",
+      "nivel": 1
+    },
+    {
+      "texto": "DAR",
+      "nivel": 1
+    },
+    {
+      "texto": "BUSCAR",
+      "nivel": 1
+    },
+    {
+      "texto": "SOPLAR",
+      "nivel": 1
+    },
+    {
+      "texto": "NADAR",
+      "nivel": 1
+    },
+    {
+      "texto": "VOLAR",
+      "nivel": 1
+    },
+    {
+      "texto": "BARRER",
+      "nivel": 1
+    },
+    {
+      "texto": "COCINAR",
+      "nivel": 1
+    },
+    {
+      "texto": "AYUDAR",
+      "nivel": 1
+    },
+    {
+      "texto": "ESPERAR",
+      "nivel": 1
+    },
+    {
+      "texto": "SENTAR",
+      "nivel": 1
+    },
+    {
+      "texto": "EMPUJAR",
+      "nivel": 1
+    },
+    {
+      "texto": "JALAR",
+      "nivel": 1
+    },
+    {
+      "texto": "TIRAR",
+      "nivel": 1
+    },
+    {
+      "texto": "PATEAR",
+      "nivel": 1
+    },
+    {
+      "texto": "BRINCAR",
+      "nivel": 1
+    },
+    {
+      "texto": "GATEAR",
+      "nivel": 1
+    },
+    {
+      "texto": "SOÑAR",
+      "nivel": 1
+    },
+    {
+      "texto": "GRANDE",
+      "nivel": 1
+    },
+    {
+      "texto": "CHICO",
+      "nivel": 1
+    },
+    {
+      "texto": "PEQUEÑO",
+      "nivel": 1
+    },
+    {
+      "texto": "ALTO",
+      "nivel": 1
+    },
+    {
+      "texto": "BAJO",
+      "nivel": 1
+    },
+    {
+      "texto": "GORDO",
+      "nivel": 1
+    },
+    {
+      "texto": "FLACO",
+      "nivel": 1
+    },
+    {
+      "texto": "LARGO",
+      "nivel": 1
+    },
+    {
+      "texto": "CORTO",
+      "nivel": 1
+    },
+    {
+      "texto": "NUEVO",
+      "nivel": 1
+    },
+    {
+      "texto": "VIEJO",
+      "nivel": 1
+    },
+    {
+      "texto": "LIMPIO",
+      "nivel": 1
+    },
+    {
+      "texto": "SUCIO",
+      "nivel": 1
+    },
+    {
+      "texto": "FRIO",
+      "nivel": 1,
+      "pronunciacion": "frío"
+    },
+    {
+      "texto": "CALIENTE",
+      "nivel": 1
+    },
+    {
+      "texto": "SUAVE",
+      "nivel": 1
+    },
+    {
+      "texto": "DURO",
+      "nivel": 1
+    },
+    {
+      "texto": "SALADO",
+      "nivel": 1
+    },
+    {
+      "texto": "FELIZ",
+      "nivel": 1
+    },
+    {
+      "texto": "TRISTE",
+      "nivel": 1
+    },
+    {
+      "texto": "BUENO",
+      "nivel": 1
+    },
+    {
+      "texto": "MALO",
+      "nivel": 1
+    },
+    {
+      "texto": "FUERTE",
+      "nivel": 1
+    },
+    {
+      "texto": "LENTO",
+      "nivel": 1
+    },
+    {
+      "texto": "RAPIDO",
+      "nivel": 1,
+      "pronunciacion": "rápido"
+    },
+    {
+      "texto": "BONITO",
+      "nivel": 1
+    },
+    {
+      "texto": "LINDO",
+      "nivel": 1
+    },
+    {
+      "texto": "RICO",
+      "nivel": 1
+    },
+    {
+      "texto": "BLANDO",
+      "nivel": 1
+    },
+    {
+      "texto": "MOJADO",
+      "nivel": 1
+    },
+    {
+      "texto": "SECO",
+      "nivel": 1
+    },
+    {
+      "texto": "LLENO",
+      "nivel": 1
+    },
+    {
+      "texto": "CLARO",
+      "nivel": 1
+    },
+    {
+      "texto": "OSCURO",
+      "nivel": 1
+    },
+    {
+      "texto": "CANSADO",
+      "nivel": 1
+    },
+    {
+      "texto": "CONTENTO",
+      "nivel": 1
+    },
+    {
+      "texto": "ENOJADO",
+      "nivel": 1
+    },
+    {
+      "texto": "HOLA",
+      "nivel": 1
+    },
+    {
+      "texto": "ADIOS",
+      "nivel": 1,
+      "pronunciacion": "adiós"
+    },
+    {
+      "texto": "GRACIAS",
+      "nivel": 1
+    },
+    {
+      "texto": "FAVOR",
+      "nivel": 1
+    },
+    {
+      "texto": "PERDON",
+      "nivel": 1,
+      "pronunciacion": "perdón"
+    },
+    {
+      "texto": "BUENOS",
+      "nivel": 1
+    },
+    {
+      "texto": "NOCHES",
+      "nivel": 1
+    },
+    {
+      "texto": "HASTA",
+      "nivel": 1
+    },
+    {
+      "texto": "LUEGO",
+      "nivel": 1
+    },
+    {
+      "texto": "LISTO",
+      "nivel": 1
+    },
+    {
+      "texto": "VAMOS",
+      "nivel": 1
+    },
+    {
+      "texto": "MIRA",
+      "nivel": 1
+    },
+    {
+      "texto": "VEN",
+      "nivel": 1
+    },
+    {
+      "texto": "TOMA",
+      "nivel": 1
+    },
+    {
+      "texto": "DAME",
+      "nivel": 1
+    },
+    {
+      "texto": "AYUDA",
+      "nivel": 1
+    },
+    {
+      "texto": "BESO",
+      "nivel": 1
+    },
+    {
+      "texto": "ABRAZO",
+      "nivel": 1
+    },
+    {
+      "texto": "CARIÑO",
+      "nivel": 1
+    },
+    {
+      "texto": "AMOR",
+      "nivel": 1
+    },
+    {
+      "texto": "NOMBRE",
+      "nivel": 1
+    },
+    {
+      "texto": "NUMERO",
+      "nivel": 1,
+      "pronunciacion": "número"
+    },
+    {
+      "texto": "LETRA",
+      "nivel": 1
+    },
+    {
+      "texto": "PALABRA",
+      "nivel": 1
+    },
+    {
+      "texto": "CANCION",
+      "nivel": 1,
+      "pronunciacion": "canción"
+    },
+    {
+      "texto": "CUENTO",
+      "nivel": 1
+    },
+    {
+      "texto": "MUSICA",
+      "nivel": 1,
+      "pronunciacion": "música"
+    },
+    {
+      "texto": "BAILE",
+      "nivel": 1
+    },
+    {
+      "texto": "FIESTA",
+      "nivel": 1
+    },
+    {
+      "texto": "REGALO",
+      "nivel": 1
+    },
+    {
+      "texto": "VELA",
+      "nivel": 1
+    },
+    {
+      "texto": "PIÑATA",
+      "nivel": 1
+    },
+    {
+      "texto": "DIBUJO",
+      "nivel": 1
+    },
+    {
+      "texto": "COLOR",
+      "nivel": 1
+    },
+    {
+      "texto": "FORMA",
+      "nivel": 1
+    },
+    {
+      "texto": "CIRCULO",
+      "nivel": 1,
+      "pronunciacion": "círculo"
+    },
+    {
+      "texto": "LINEA",
+      "nivel": 1,
+      "pronunciacion": "línea"
+    },
+    {
+      "texto": "PUNTO",
+      "nivel": 1
+    },
+    {
+      "texto": "SONIDO",
+      "nivel": 1
+    },
+    {
+      "texto": "RISA",
+      "nivel": 1
+    },
+    {
+      "texto": "SUEÑO",
+      "nivel": 1
+    },
+    {
+      "texto": "COSQUILLA",
+      "nivel": 1
+    },
+    {
+      "texto": "DINOSAURIO",
+      "nivel": 2
+    },
+    {
+      "texto": "PLANETA",
+      "nivel": 2
+    },
+    {
+      "texto": "ASTRONAUTA",
+      "nivel": 2
+    },
+    {
+      "texto": "AMBULANCIA",
+      "nivel": 2
+    },
+    {
+      "texto": "HOSPITAL",
+      "nivel": 2
+    },
+    {
+      "texto": "DENTISTA",
+      "nivel": 2
+    },
+    {
+      "texto": "VETERINARIO",
+      "nivel": 2
+    },
+    {
+      "texto": "BIBLIOTECA",
+      "nivel": 2
+    },
+    {
+      "texto": "MUSEO",
+      "nivel": 2
+    },
+    {
+      "texto": "TEATRO",
+      "nivel": 2
+    },
+    {
+      "texto": "CINE",
+      "nivel": 2
+    },
+    {
+      "texto": "AEROPUERTO",
+      "nivel": 2
+    },
+    {
+      "texto": "ESTACION",
+      "nivel": 2,
+      "pronunciacion": "estación"
+    },
+    {
+      "texto": "AUTOBUS",
+      "nivel": 2,
+      "pronunciacion": "autobús"
+    },
+    {
+      "texto": "METRO",
+      "nivel": 2
+    },
+    {
+      "texto": "BICICLETA",
+      "nivel": 2
+    },
+    {
+      "texto": "PATINETA",
+      "nivel": 2
+    },
+    {
+      "texto": "LANCHA",
+      "nivel": 2
+    },
+    {
+      "texto": "SUBMARINO",
+      "nivel": 2
+    },
+    {
+      "texto": "HELICOPTERO",
+      "nivel": 2,
+      "pronunciacion": "helicóptero"
+    },
+    {
+      "texto": "AVIONETA",
+      "nivel": 2
+    },
+    {
+      "texto": "CASTILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "TORRE",
+      "nivel": 2
+    },
+    {
+      "texto": "DRAGON",
+      "nivel": 2,
+      "pronunciacion": "dragón"
+    },
+    {
+      "texto": "HADA",
+      "nivel": 2
+    },
+    {
+      "texto": "BRUJA",
+      "nivel": 2
+    },
+    {
+      "texto": "PIRATA",
+      "nivel": 2
+    },
+    {
+      "texto": "MAGO",
+      "nivel": 2
+    },
+    {
+      "texto": "PRINCIPE",
+      "nivel": 2,
+      "pronunciacion": "príncipe"
+    },
+    {
+      "texto": "PRINCESA",
+      "nivel": 2
+    },
+    {
+      "texto": "REY",
+      "nivel": 2
+    },
+    {
+      "texto": "REINA",
+      "nivel": 2
+    },
+    {
+      "texto": "GIGANTE",
+      "nivel": 2
+    },
+    {
+      "texto": "DUENDE",
+      "nivel": 2
+    },
+    {
+      "texto": "SIRENA",
+      "nivel": 2
+    },
+    {
+      "texto": "MONSTRUO",
+      "nivel": 2
+    },
+    {
+      "texto": "FANTASMA",
+      "nivel": 2
+    },
+    {
+      "texto": "HEROE",
+      "nivel": 2,
+      "pronunciacion": "héroe"
+    },
+    {
+      "texto": "MAPA",
+      "nivel": 2
+    },
+    {
+      "texto": "BRUJULA",
+      "nivel": 2,
+      "pronunciacion": "brújula"
+    },
+    {
+      "texto": "TESORO",
+      "nivel": 2
+    },
+    {
+      "texto": "MONEDA",
+      "nivel": 2
+    },
+    {
+      "texto": "BANDERA",
+      "nivel": 2
+    },
+    {
+      "texto": "ESCUDO",
+      "nivel": 2
+    },
+    {
+      "texto": "ESPADA",
+      "nivel": 2
+    },
+    {
+      "texto": "CORONA",
+      "nivel": 2
+    },
+    {
+      "texto": "TELESCOPIO",
+      "nivel": 2
+    },
+    {
+      "texto": "IMAN",
+      "nivel": 2,
+      "pronunciacion": "imán"
+    },
+    {
+      "texto": "MAQUINA",
+      "nivel": 2,
+      "pronunciacion": "máquina"
+    },
+    {
+      "texto": "HERRAMIENTA",
+      "nivel": 2
+    },
+    {
+      "texto": "MARTILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "CLAVO",
+      "nivel": 2
+    },
+    {
+      "texto": "TORNILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "SIERRA",
+      "nivel": 2
+    },
+    {
+      "texto": "PALA",
+      "nivel": 2
+    },
+    {
+      "texto": "RASTRILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "REGADERA",
+      "nivel": 2
+    },
+    {
+      "texto": "MACETA",
+      "nivel": 2
+    },
+    {
+      "texto": "COSECHA",
+      "nivel": 2
+    },
+    {
+      "texto": "CAMPO",
+      "nivel": 2
+    },
+    {
+      "texto": "ESTABLO",
+      "nivel": 2
+    },
+    {
+      "texto": "CORRAL",
+      "nivel": 2
+    },
+    {
+      "texto": "NIDO",
+      "nivel": 2
+    },
+    {
+      "texto": "PANAL",
+      "nivel": 2
+    },
+    {
+      "texto": "CONCHA",
+      "nivel": 2
+    },
+    {
+      "texto": "MEDUSA",
+      "nivel": 2
+    },
+    {
+      "texto": "TIBURON",
+      "nivel": 2,
+      "pronunciacion": "tiburón"
+    },
+    {
+      "texto": "CARACOL",
+      "nivel": 2
+    },
+    {
+      "texto": "LAGARTIJA",
+      "nivel": 2
+    },
+    {
+      "texto": "IGUANA",
+      "nivel": 2
+    },
+    {
+      "texto": "CAMALEON",
+      "nivel": 2,
+      "pronunciacion": "camaleón"
+    },
+    {
+      "texto": "MURCIELAGO",
+      "nivel": 2,
+      "pronunciacion": "murciélago"
+    },
+    {
+      "texto": "ARDILLA",
+      "nivel": 2
+    },
+    {
+      "texto": "VENADO",
+      "nivel": 2
+    },
+    {
+      "texto": "MAPACHE",
+      "nivel": 2
+    },
+    {
+      "texto": "ERIZO",
+      "nivel": 2
+    },
+    {
+      "texto": "NUTRIA",
+      "nivel": 2
+    },
+    {
+      "texto": "CASTOR",
+      "nivel": 2
+    },
+    {
+      "texto": "CAMELLO",
+      "nivel": 2
+    },
+    {
+      "texto": "HIPOPOTAMO",
+      "nivel": 2,
+      "pronunciacion": "hipopótamo"
+    },
+    {
+      "texto": "RINOCERONTE",
+      "nivel": 2
+    },
+    {
+      "texto": "COCODRILO",
+      "nivel": 2
+    },
+    {
+      "texto": "GORILA",
+      "nivel": 2
+    },
+    {
+      "texto": "CHIMPANCE",
+      "nivel": 2,
+      "pronunciacion": "chimpancé"
+    },
+    {
+      "texto": "PEREZOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "ARMADILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "TUCAN",
+      "nivel": 2,
+      "pronunciacion": "tucán"
+    },
+    {
+      "texto": "FLAMENCO",
+      "nivel": 2
+    },
+    {
+      "texto": "AGUILA",
+      "nivel": 2,
+      "pronunciacion": "águila"
+    },
+    {
+      "texto": "HALCON",
+      "nivel": 2,
+      "pronunciacion": "halcón"
+    },
+    {
+      "texto": "CUERVO",
+      "nivel": 2
+    },
+    {
+      "texto": "COLIBRI",
+      "nivel": 2,
+      "pronunciacion": "colibrí"
+    },
+    {
+      "texto": "CANARIO",
+      "nivel": 2
+    },
+    {
+      "texto": "AVESTRUZ",
+      "nivel": 2
+    },
+    {
+      "texto": "PANTERA",
+      "nivel": 2
+    },
+    {
+      "texto": "LEOPARDO",
+      "nivel": 2
+    },
+    {
+      "texto": "GUEPARDO",
+      "nivel": 2
+    },
+    {
+      "texto": "JAGUAR",
+      "nivel": 2
+    },
+    {
+      "texto": "LINCE",
+      "nivel": 2
+    },
+    {
+      "texto": "FOQUITA",
+      "nivel": 2
+    },
+    {
+      "texto": "MARIPOSA",
+      "nivel": 2
+    },
+    {
+      "texto": "LIBELULA",
+      "nivel": 2,
+      "pronunciacion": "libélula"
+    },
+    {
+      "texto": "ESCARABAJO",
+      "nivel": 2
+    },
+    {
+      "texto": "SALTAMONTES",
+      "nivel": 2
+    },
+    {
+      "texto": "GRILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "LUCIERNAGA",
+      "nivel": 2,
+      "pronunciacion": "luciérnaga"
+    },
+    {
+      "texto": "CARACOLA",
+      "nivel": 2
+    },
+    {
+      "texto": "PINGUINO",
+      "nivel": 2,
+      "pronunciacion": "pingüino"
+    },
+    {
+      "texto": "SEMANA",
+      "nivel": 2
+    },
+    {
+      "texto": "LUNES",
+      "nivel": 2
+    },
+    {
+      "texto": "MARTES",
+      "nivel": 2
+    },
+    {
+      "texto": "JUEVES",
+      "nivel": 2
+    },
+    {
+      "texto": "VIERNES",
+      "nivel": 2
+    },
+    {
+      "texto": "SABADO",
+      "nivel": 2,
+      "pronunciacion": "sábado"
+    },
+    {
+      "texto": "DOMINGO",
+      "nivel": 2
+    },
+    {
+      "texto": "ENERO",
+      "nivel": 2
+    },
+    {
+      "texto": "FEBRERO",
+      "nivel": 2
+    },
+    {
+      "texto": "MARZO",
+      "nivel": 2
+    },
+    {
+      "texto": "ABRIL",
+      "nivel": 2
+    },
+    {
+      "texto": "MAYO",
+      "nivel": 2
+    },
+    {
+      "texto": "JUNIO",
+      "nivel": 2
+    },
+    {
+      "texto": "JULIO",
+      "nivel": 2
+    },
+    {
+      "texto": "AGOSTO",
+      "nivel": 2
+    },
+    {
+      "texto": "OCTUBRE",
+      "nivel": 2
+    },
+    {
+      "texto": "NOVIEMBRE",
+      "nivel": 2
+    },
+    {
+      "texto": "DICIEMBRE",
+      "nivel": 2
+    },
+    {
+      "texto": "INVIERNO",
+      "nivel": 2
+    },
+    {
+      "texto": "VERANO",
+      "nivel": 2
+    },
+    {
+      "texto": "OTOÑO",
+      "nivel": 2
+    },
+    {
+      "texto": "PRIMAVERA",
+      "nivel": 2
+    },
+    {
+      "texto": "CUMPLEAÑOS",
+      "nivel": 2
+    },
+    {
+      "texto": "NAVIDAD",
+      "nivel": 2
+    },
+    {
+      "texto": "ESCRIBIR",
+      "nivel": 2
+    },
+    {
+      "texto": "ENCONTRAR",
+      "nivel": 2
+    },
+    {
+      "texto": "COMPARTIR",
+      "nivel": 2
+    },
+    {
+      "texto": "APRENDER",
+      "nivel": 2
+    },
+    {
+      "texto": "PENSAR",
+      "nivel": 2
+    },
+    {
+      "texto": "PARAR",
+      "nivel": 2
+    },
+    {
+      "texto": "ATRAPAR",
+      "nivel": 2
+    },
+    {
+      "texto": "VESTIR",
+      "nivel": 2
+    },
+    {
+      "texto": "PEDIR",
+      "nivel": 2
+    },
+    {
+      "texto": "TREPAR",
+      "nivel": 2
+    },
+    {
+      "texto": "SANAR",
+      "nivel": 2
+    },
+    {
+      "texto": "CRECER",
+      "nivel": 2
+    },
+    {
+      "texto": "MEDIR",
+      "nivel": 2
+    },
+    {
+      "texto": "PESAR",
+      "nivel": 2
+    },
+    {
+      "texto": "MEZCLAR",
+      "nivel": 2
+    },
+    {
+      "texto": "CORTAR",
+      "nivel": 2
+    },
+    {
+      "texto": "DOBLAR",
+      "nivel": 2
+    },
+    {
+      "texto": "PEGAR",
+      "nivel": 2
+    },
+    {
+      "texto": "AMARRAR",
+      "nivel": 2
+    },
+    {
+      "texto": "TRENZAR",
+      "nivel": 2
+    },
+    {
+      "texto": "SILBAR",
+      "nivel": 2
+    },
+    {
+      "texto": "SUSURRAR",
+      "nivel": 2
+    },
+    {
+      "texto": "ESCUCHAR",
+      "nivel": 2
+    },
+    {
+      "texto": "OBSERVAR",
+      "nivel": 2
+    },
+    {
+      "texto": "EXPLORAR",
+      "nivel": 2
+    },
+    {
+      "texto": "DESCUBRIR",
+      "nivel": 2
+    },
+    {
+      "texto": "IMAGINAR",
+      "nivel": 2
+    },
+    {
+      "texto": "INVENTAR",
+      "nivel": 2
+    },
+    {
+      "texto": "CONSTRUIR",
+      "nivel": 2
+    },
+    {
+      "texto": "DERRIBAR",
+      "nivel": 2
+    },
+    {
+      "texto": "GUARDAR",
+      "nivel": 2
+    },
+    {
+      "texto": "ORDENAR",
+      "nivel": 2
+    },
+    {
+      "texto": "REGALAR",
+      "nivel": 2
+    },
+    {
+      "texto": "PRESTAR",
+      "nivel": 2
+    },
+    {
+      "texto": "DEVOLVER",
+      "nivel": 2
+    },
+    {
+      "texto": "CUIDAR",
+      "nivel": 2
+    },
+    {
+      "texto": "CURAR",
+      "nivel": 2
+    },
+    {
+      "texto": "SEMBRAR",
+      "nivel": 2
+    },
+    {
+      "texto": "REGAR",
+      "nivel": 2
+    },
+    {
+      "texto": "COSECHAR",
+      "nivel": 2
+    },
+    {
+      "texto": "PESCAR",
+      "nivel": 2
+    },
+    {
+      "texto": "CAZAR",
+      "nivel": 2
+    },
+    {
+      "texto": "REMAR",
+      "nivel": 2
+    },
+    {
+      "texto": "ESCALAR",
+      "nivel": 2
+    },
+    {
+      "texto": "PATINAR",
+      "nivel": 2
+    },
+    {
+      "texto": "RODAR",
+      "nivel": 2
+    },
+    {
+      "texto": "GIRAR",
+      "nivel": 2
+    },
+    {
+      "texto": "BRILLAR",
+      "nivel": 2
+    },
+    {
+      "texto": "VALIENTE",
+      "nivel": 2
+    },
+    {
+      "texto": "AMABLE",
+      "nivel": 2
+    },
+    {
+      "texto": "CALLADO",
+      "nivel": 2
+    },
+    {
+      "texto": "RUIDOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "ASUSTADO",
+      "nivel": 2
+    },
+    {
+      "texto": "TRANQUILO",
+      "nivel": 2
+    },
+    {
+      "texto": "CURIOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "TRAVIESO",
+      "nivel": 2
+    },
+    {
+      "texto": "JUGUETON",
+      "nivel": 2,
+      "pronunciacion": "juguetón"
+    },
+    {
+      "texto": "CARIÑOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "PACIENTE",
+      "nivel": 2
+    },
+    {
+      "texto": "HONESTO",
+      "nivel": 2
+    },
+    {
+      "texto": "GENEROSO",
+      "nivel": 2
+    },
+    {
+      "texto": "SINCERO",
+      "nivel": 2
+    },
+    {
+      "texto": "ORGULLOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "TIMIDO",
+      "nivel": 2,
+      "pronunciacion": "tímido"
+    },
+    {
+      "texto": "ALEGRE",
+      "nivel": 2
+    },
+    {
+      "texto": "FURIOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "SORPRENDIDO",
+      "nivel": 2
+    },
+    {
+      "texto": "CONFUNDIDO",
+      "nivel": 2
+    },
+    {
+      "texto": "HAMBRIENTO",
+      "nivel": 2
+    },
+    {
+      "texto": "SEDIENTO",
+      "nivel": 2
+    },
+    {
+      "texto": "DESPIERTO",
+      "nivel": 2
+    },
+    {
+      "texto": "DORMIDO",
+      "nivel": 2
+    },
+    {
+      "texto": "VACIO",
+      "nivel": 2,
+      "pronunciacion": "vacío"
+    },
+    {
+      "texto": "PESADO",
+      "nivel": 2
+    },
+    {
+      "texto": "LIGERO",
+      "nivel": 2
+    },
+    {
+      "texto": "ESTRECHO",
+      "nivel": 2
+    },
+    {
+      "texto": "ANCHO",
+      "nivel": 2
+    },
+    {
+      "texto": "PROFUNDO",
+      "nivel": 2
+    },
+    {
+      "texto": "REDONDO",
+      "nivel": 2
+    },
+    {
+      "texto": "CUADRADO",
+      "nivel": 2
+    },
+    {
+      "texto": "PUNTIAGUDO",
+      "nivel": 2
+    },
+    {
+      "texto": "BRILLANTE",
+      "nivel": 2
+    },
+    {
+      "texto": "OPACO",
+      "nivel": 2
+    },
+    {
+      "texto": "TRANSPARENTE",
+      "nivel": 2
+    },
+    {
+      "texto": "COLORIDO",
+      "nivel": 2
+    },
+    {
+      "texto": "RAYADO",
+      "nivel": 2
+    },
+    {
+      "texto": "MANCHADO",
+      "nivel": 2
+    },
+    {
+      "texto": "PELUDO",
+      "nivel": 2
+    },
+    {
+      "texto": "LISO",
+      "nivel": 2
+    },
+    {
+      "texto": "RUGOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "PEGAJOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "RESBALOSO",
+      "nivel": 2
+    },
+    {
+      "texto": "TRIANGULO",
+      "nivel": 2,
+      "pronunciacion": "triángulo"
+    },
+    {
+      "texto": "RECTANGULO",
+      "nivel": 2,
+      "pronunciacion": "rectángulo"
+    },
+    {
+      "texto": "ROMBO",
+      "nivel": 2
+    },
+    {
+      "texto": "OVALO",
+      "nivel": 2,
+      "pronunciacion": "óvalo"
+    },
+    {
+      "texto": "PIRAMIDE",
+      "nivel": 2,
+      "pronunciacion": "pirámide"
+    },
+    {
+      "texto": "ESFERA",
+      "nivel": 2
+    },
+    {
+      "texto": "CUBITO",
+      "nivel": 2
+    },
+    {
+      "texto": "ESPIRAL",
+      "nivel": 2
+    },
+    {
+      "texto": "ENERGIA",
+      "nivel": 2,
+      "pronunciacion": "energía"
+    },
+    {
+      "texto": "SOMBRILLA",
+      "nivel": 2
+    },
+    {
+      "texto": "PARAGUAS",
+      "nivel": 2
+    },
+    {
+      "texto": "LINTERNA",
+      "nivel": 2
+    },
+    {
+      "texto": "ESCALERA",
+      "nivel": 2
+    },
+    {
+      "texto": "CHIMENEA",
+      "nivel": 2
+    },
+    {
+      "texto": "BUZON",
+      "nivel": 2,
+      "pronunciacion": "buzón"
+    },
+    {
+      "texto": "ALFOMBRA",
+      "nivel": 2
+    },
+    {
+      "texto": "CORTINA",
+      "nivel": 2
+    },
+    {
+      "texto": "SILLON",
+      "nivel": 2,
+      "pronunciacion": "sillón"
+    },
+    {
+      "texto": "ESCRITORIO",
+      "nivel": 2
+    },
+    {
+      "texto": "REPISA",
+      "nivel": 2
+    },
+    {
+      "texto": "CAJON",
+      "nivel": 2,
+      "pronunciacion": "cajón"
+    },
+    {
+      "texto": "PERILLA",
+      "nivel": 2
+    },
+    {
+      "texto": "TIMBRE",
+      "nivel": 2
+    },
+    {
+      "texto": "TUBERIA",
+      "nivel": 2,
+      "pronunciacion": "tubería"
+    },
+    {
+      "texto": "MANGUERA",
+      "nivel": 2
+    },
+    {
+      "texto": "CERCA",
+      "nivel": 2
+    },
+    {
+      "texto": "PORTON",
+      "nivel": 2,
+      "pronunciacion": "portón"
+    },
+    {
+      "texto": "GRANERO",
+      "nivel": 2
+    },
+    {
+      "texto": "MOLINO",
+      "nivel": 2
+    },
+    {
+      "texto": "FARO",
+      "nivel": 2
+    },
+    {
+      "texto": "IGLESIA",
+      "nivel": 2
+    },
+    {
+      "texto": "CASTILLITO",
+      "nivel": 2
+    },
+    {
+      "texto": "CEREBRO",
+      "nivel": 2
+    },
+    {
+      "texto": "PULMON",
+      "nivel": 2,
+      "pronunciacion": "pulmón"
+    },
+    {
+      "texto": "ESTOMAGO",
+      "nivel": 2,
+      "pronunciacion": "estómago"
+    },
+    {
+      "texto": "MUSCULO",
+      "nivel": 2,
+      "pronunciacion": "músculo"
+    },
+    {
+      "texto": "TOBILLO",
+      "nivel": 2
+    },
+    {
+      "texto": "CADERA",
+      "nivel": 2
+    },
+    {
+      "texto": "BARBILLA",
+      "nivel": 2
+    },
+    {
+      "texto": "PESTAÑA",
+      "nivel": 2
+    },
+    {
+      "texto": "FRENTE",
+      "nivel": 2
+    },
+    {
+      "texto": "COLUMNA",
+      "nivel": 2
+    },
+    {
+      "texto": "COSTILLA",
+      "nivel": 2
+    }
+  ]
+}

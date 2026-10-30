@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Entornos virtuales, se llamen como se llamen
+.venv/
+venv/
+env/
+
+# Editores
+.idea/
+.vscode/
+
+# Construccion del ejecutable
+build/
+dist/
+*.spec
+
+.pytest_cache/
+progreso.json
+.DS_Store
